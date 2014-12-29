@@ -8,3 +8,4 @@ Learning goals
 * Game development
 * Programming
 * Python
+* Game Storylining
