@@ -37,6 +37,7 @@ Game programming
 ### Game programming using Python ###
 
 * [Blender Game Engine](http://wiki.blender.org/index.php/Doc:2.6/Manual/Game_Engine)
+ - [Blender game programming, selected ebooks from Vancouver Public Library](http://vpl.bibliocommons.com/list/share/204639361_kavetha/377948067_blender_game_programming)   `@book`
  - [Tutorials](http://www.blender.org/support/tutorials/) :: [Game Engine: Simple Character - Blender Cookie](http://cgcookie.com/blender/cgc-courses/game-engine-simple-character/)
  - [Doc:2.6/Manual - BlenderWiki](http://wiki.blender.org/index.php/Doc:2.6/Manual)
 
@@ -80,6 +81,8 @@ Resources covering advanced topics that might be a good path to pursue after thi
 * [Introduction to Computation and Programming Using Python, Revised and Expanded Edition | Vancouver Public Library | BiblioCommons](http://vpl.bibliocommons.com/item/show/3636111038_introduction_to_computation_and_programming_using_python,_revised_and_expanded_edition) `+` `@book`
 
  > This book introduces students with little or no prior programming experience to the art of computational problem solving using Python and various Python libraries, including PyLab. It provides students with skills that will enable them to make productive use of computational techniques, including some of the tools and techniques of "data science" for using computation to model and interpret data. The book is based on an MIT course (which became the most popular course offered through MIT's OpenCourseWare) and was developed for use not only in a conventional classroom but in a massive open online course (or MOOC) offered by the pioneering MIT-Harvard collaboration edX. Students are introduced to Python and the basics of programming in the context of such computational concepts and techniques as exhaustive enumeration, bisection search, and efficient approximation algorithms. The book does not require knowledge of mathematics beyond high school algebra, but does assume that readers are comfortable with rigorous thinking and not intimidated by mathematical concepts.
+
+* [Python programming, selected ebooks from Vancouver Public Library](http://vpl.bibliocommons.com/list/share/204639361_kavetha/364720947_python_programming) `@book`
 
 ### Game development ###
 
