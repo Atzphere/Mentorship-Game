@@ -2,6 +2,7 @@ import sys
 import pygame
 from pygame.locals import *
 
+eggs = [12, 16, 17 126]
 keys = [False, False, False, False]
 pos = [100, 100]
 
@@ -26,17 +27,14 @@ def controlBall(event):
             keys[3] = True
 
     if event.type == pygame.KEYUP:
-        if event.key == pygame.K_LEFT:
             keys[0] = False
-        if event.key == pygame.K_RIGHT:
             keys[1] = False
-        if event.key == pygame.K_UP:
             keys[2] = False
-        if event.key == pygame.K_DOWN:
             keys[3] = False
 
     if keys[0]:
         pos[0] -= speedOffSet
+
     elif keys[1]:
         pos[0] += speedOffSet
     if keys[2]:
