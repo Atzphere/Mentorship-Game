@@ -38,6 +38,7 @@ Game programming
 
 * [Blender Game Engine](http://wiki.blender.org/index.php/Doc:2.6/Manual/Game_Engine)
  - [Blender game programming, selected ebooks from Vancouver Public Library](http://vpl.bibliocommons.com/list/share/204639361_kavetha/377948067_blender_game_programming)   `@book`
+   - [Companion files for book 'Game Development with Blender'](http://www.delmarlearning.com/companions/content/1435456629/companionfiles/index.asp?isbn=1435456629)  
  - [Tutorials](http://www.blender.org/support/tutorials/) :: [Game Engine: Simple Character - Blender Cookie](http://cgcookie.com/blender/cgc-courses/game-engine-simple-character/)
  - [Doc:2.6/Manual - BlenderWiki](http://wiki.blender.org/index.php/Doc:2.6/Manual)
 
