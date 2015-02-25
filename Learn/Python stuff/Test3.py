@@ -2,7 +2,6 @@ import sys
 import pygame
 from pygame.locals import *
 
-eggs = [12, 16, 17 126]
 keys = [False, False, False, False]
 pos = [100, 100]
 
@@ -70,6 +69,7 @@ def playBall():
         screen.blit(ballIMG, pos)
         pygame.display.update()
 
-playBall()
+if __name__ == "__main__":
+    playBall()
 
         
